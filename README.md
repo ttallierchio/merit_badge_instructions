@@ -20,7 +20,7 @@ You should fork the provided list of repos
 
 * [Python](https://github.com/ttallierchio/merit_badge_python_example)
 * [Node](https://github.com/ttallierchio/merit_badge_nodejs_example)
-* [Repo 3](https://github.com/ttallierchio/merit_badge_java_example)
+* [Java](https://github.com/ttallierchio/merit_badge_java_example)
 
 After forking, each repo, you will need to
 1. Click the plus on the top bar, it's the fifth button from the left of your account icon
