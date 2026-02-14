@@ -18,8 +18,8 @@ We will use GitHub Codespaces. The codespace is an easy way to set up your local
 
 You should fork the provided list of repos
 
-* Repo 1
-* Repo 2
+* [Python](https://github.com/ttallierchio/merit_badge_python_example)
+* [Node](https://github.com/ttallierchio/merit_badge_nodejs_example)
 * Repo 3
 
 After forking, each repo, you will need to
